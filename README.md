@@ -1,5 +1,5 @@
-# Enterprise Technical Support Agentic RAG Chatbot
-A prodcution-grade RAG System that helps to answer typical technical questions from complex large pool of technical documents with noisy data. It dynamically decides whether to retrieve documents or answer from conversation history. Generates answers grounded with citations. 
+# Enterprise Technical Support Agentic RAG Assistant
+A production-grade RAG System that helps to answer typical technical questions from complex large pool of technical documents with noisy data. It dynamically decides whether to retrieve documents or answer from conversation history. Generates answers grounded with citations. 
 
 The chatbot also incorporates **guardrails**, **LangGraph-based orchestration**, **LLM Gateway integration**, **conversational memory**, **document citations**, and **retrieval reranking** to provide reliable and traceable technical answers.
 
