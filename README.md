@@ -59,7 +59,8 @@ graph TD
 | Layer | Technology |
 |-------|-----------|
 | Orchestration | LangChain + LangGraph |
-| LLMs | Groq (`gpt-oss-120b`) & Openrouter (`nemotron-3-super-120b-a12b`) via **Portkey** gateway |
+| LLMs | Groq (`gpt-oss-120b`) & Openrouter (`nemotron-3-super-120b-a12b`) |
+| LLM Gateway | Portkey |
 | Guardrails | NeMo Guardrails |
 | Vector DB | Qdrant Cloud |
 | Reranking | FlashRank (local, zero-latency)  |
